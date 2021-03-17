@@ -5,6 +5,6 @@ Framework7 starter app template bundle up by parcel
 
 ### 1. Download this repository
 
-`npx http-server docs`
+`npx http-server docs`.
 
 Surf to [http://localhost:8080](http://localhost:8080).
